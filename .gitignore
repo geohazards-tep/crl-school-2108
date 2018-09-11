@@ -1,4 +1,8 @@
-.ipynb_checkpoints
-.elinks
-*.log
+ipynb_checkpoints
+
 *.tif
+*.tiff
+*.ipynb_checkpoints
+*.log
+*.elinks
+*.zip

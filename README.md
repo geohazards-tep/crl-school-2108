@@ -31,15 +31,15 @@ First stage-in the coseismic interferometric pair discovered in the previous les
 
 Then use the SNAP Toolbox operators with Python to create a workflow that applies the SNAP Operators:
 
-     - Orbit file correction
-     - TOPSAR split
-     - Back-Geocoding
-     - Interferogram
-     - TOPSAR Deburst
-     - TOPSAR Merge
-     - TopoPhaseRemoval
-     - GoldsteinPhaseFiltering
-     - Terrain correction
+* Orbit file correction
+* TOPSAR split
+* Back-Geocoding
+* Interferogram
+* TOPSAR Deburst
+* TOPSAR Merge
+* TopoPhaseRemoval
+* GoldsteinPhaseFiltering
+* Terrain correction
 
 #### More information 
 
